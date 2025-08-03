@@ -26,7 +26,3 @@ Unauthenticated users can:
 -->Blogs have a title and content
 -->Public blog listing page with pagination
 -->Fully responsive UI for desktop and mobile
-
-🚀 Live Demo
-🌐 Frontend: https://your-netlify-app.netlify.app
-🔗 Backend API: https://your-backend-api.com
