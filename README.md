@@ -1,12 +1,32 @@
-# React + Vite
+📝 Full Stack Blog Application
+This is a full-stack web application that allows users to create, view, edit, and delete blog posts. It includes user authentication and is built using Spring Boot (backend) and React (frontend). The application is responsive and works seamlessly on both desktop and mobile devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**🔧 Tech Stack**
+Frontend: React, HTML, CSS, JavaScript
+Backend: Spring Boot (Java)
+Database: MySQL
+Authentication: Email & Password (JWT-based or session-based)
 
-Currently, two official plugins are available:
+**Deployment:**
+Frontend: Netlify
+Backend: Railway
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Demo
+🌐 Frontend: https://magnificent-naiad-7dcfc4.netlify.app/
+🔗 Backend API: blog-application-production-ddc1.up.railway.app
 
-## Expanding the ESLint configuration
+**✅ Features**:
+-->User Signup & Login (email & password)
+-->Authenticated users can:
+-->Create new blog posts
+-->Edit or delete their own blog posts
+Unauthenticated users can:
+-->View all blogs
+-->Access blog detail pages
+-->Blogs have a title and content
+-->Public blog listing page with pagination
+-->Fully responsive UI for desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Live Demo
+🌐 Frontend: https://your-netlify-app.netlify.app
+🔗 Backend API: https://your-backend-api.com
